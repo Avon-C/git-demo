@@ -4,3 +4,4 @@ hello git master conflict test
 hello git hot-fix conflict test
 test pull
 Avon-B test
+fork test
