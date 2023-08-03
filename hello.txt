@@ -2,3 +2,4 @@ hello git 222222222
 hello git 333333333
 hello git master conflict test
 hello git hot-fix conflict test
+test pull
